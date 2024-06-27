@@ -1,0 +1,11 @@
+.home{
+    display: flex;
+    flex-direction: row;
+}
+.menu{
+    flex: 0.3;
+}
+
+.feed{
+    flex: 0.7;
+}
